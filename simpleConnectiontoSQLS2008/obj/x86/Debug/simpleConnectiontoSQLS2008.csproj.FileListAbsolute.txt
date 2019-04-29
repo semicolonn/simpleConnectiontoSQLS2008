@@ -1,0 +1,8 @@
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\bin\Debug\simpleConnectiontoSQLS2008.exe
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\bin\Debug\simpleConnectiontoSQLS2008.pdb
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\obj\x86\Debug\simpleConnectiontoSQLS2008.Form1.resources
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\obj\x86\Debug\simpleConnectiontoSQLS2008.Properties.Resources.resources
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\obj\x86\Debug\simpleConnectiontoSQLS2008.csproj.GenerateResource.Cache
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\obj\x86\Debug\simpleConnectiontoSQLS2008.exe
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\obj\x86\Debug\simpleConnectiontoSQLS2008.pdb
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\simpleConnectiontoSQLS2008\simpleConnectiontoSQLS2008\obj\x86\Debug\simpleConnectiontoSQLS2008.csprojResolveAssemblyReference.cache
